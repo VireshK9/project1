@@ -1,0 +1,27 @@
+#div1{
+    width: 300rem;
+    height: 6rem;
+    background-color: red;
+    position: fixed;
+    margin-left: 400p;
+}
+#div2{
+    width: 12.5rem;
+    height: 12.5rem;
+    background-color: blue;
+}
+#div3{
+    width: 12.5rem;
+    height: 12.5rem;
+    background-color: yellowgreen;
+}
+#div4{
+    width: 12.5rem;
+    height: 12.5rem;
+    background-color: purple;
+}
+#div5{
+    width: 12.5rem;
+    height: 12.5rem;
+    background-color: orange;
+}
